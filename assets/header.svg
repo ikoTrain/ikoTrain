@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">ikoTrain</title><desc id="desc">Embedded experiments. Measured results.</desc>
+<rect width="1200" height="300" rx="14" fill="#101b2a"/>
+<g stroke="#283b50" stroke-width="1"><path d="M820 0V300M880 0V300M940 0V300M1000 0V300M1060 0V300M1120 0V300M1180 0V300M800 60H1200M800 120H1200M800 180H1200M800 240H1200"/></g>
+<path d="M805 220H850V135H900V220H950V88H1000V220H1050V165H1100V220H1170" stroke="#63d6b1" stroke-width="4" fill="none"/>
+<circle cx="850" cy="135" r="5" fill="#fff"/><circle cx="950" cy="88" r="5" fill="#fff"/><circle cx="1050" cy="165" r="5" fill="#fff"/>
+<rect x="52" y="48" width="42" height="4" fill="#63d6b1"/>
+<text x="52" y="120" fill="#fff" font-family="Arial,sans-serif" font-size="52" font-weight="700" letter-spacing="-1">ikoTrain</text>
+<text x="54" y="173" fill="#dce5ee" font-family="Arial,sans-serif" font-size="28">Embedded experiments. Measured results.</text>
+<text x="54" y="238" fill="#88a4ba" font-family="Arial,sans-serif" font-size="16" letter-spacing="2">ESP32 · FIRMWARE · HARDWARE · DATA</text>
+</svg>
