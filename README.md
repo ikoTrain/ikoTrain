@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="assets/header.svg" alt="ikoTrain — Embedded experiments. Measured results." width="100%">
 </p>
 
@@ -8,4 +8,4 @@ Exploring embedded systems, electronics, and firmware. I enjoy turning ideas int
 
 **Current project:** [ProduceSense](https://github.com/ikoTrain/ProduceSense) — an ESP32 experiment in recognizing produce through electrical measurements.
 
-ESP32 · Arduino / C++ · Electronics · Experimental projects
+STM32 · ESP32 · C/C++ · Electronics
